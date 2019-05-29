@@ -42,15 +42,16 @@ Our system can help users answering their questions as the following:
 
 - MS SQL Server Management Studio
 - Tableau
+- Wordle (WordCloud Generator Application)
 - R
-- Wordle (WordCloud Generator Application) <br>
-Packages in R: 
-- rvest
-- Yelpr (Interface with Yelp Fusion API)
+  - Packages in R: 
+    - rvest
+    - Yelpr (Interface with Yelp Fusion API)
 
 `install.packages("yelpr") <br>
 devtools::install_github("OmaymaS/yelpr") <br>
 library(yelpr) `
+
 
 
 ## Project Participants:
