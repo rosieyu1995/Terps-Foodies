@@ -43,7 +43,7 @@ Our system can help users answering their questions as the following:
 - MS SQL Server Management Studio
 - Tableau
 - R
-- Wordle (WordCloud Generator Application)
+- Wordle (WordCloud Generator Application) <br>
 Packages in R: 
 - rvest
 - Yelpr (Interface with Yelp Fusion API)
