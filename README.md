@@ -48,8 +48,8 @@ Packages in R:
 - rvest
 - Yelpr (Interface with Yelp Fusion API)
 
-`install.packages("yelpr")
-devtools::install_github("OmaymaS/yelpr")
+`install.packages("yelpr") <br>
+devtools::install_github("OmaymaS/yelpr") <br>
 library(yelpr) `
 
 
