@@ -11,12 +11,12 @@ The database system's ER-Diagram:
 
 The database system's relational schema:
 
-Restaurant(**restaurantID**, restaurantName, priceRange, phoneNumber, reviewCount, websiteURL, avgRating, is_Group)
-Day(**dayID**, weekday)
-Operation(**_restaurantID_**, **_dayID_**, openingHour, endingHour, is_Night)
-Location(**restaurantID**, address, city, zipcode, latitude, longitude)
-Category(**categoryID**, categoryName)
-Classify(**_restaurantID_**, **_categoryID_**)
+Restaurant(**restaurantID**, restaurantName, priceRange, phoneNumber, reviewCount, websiteURL, avgRating, is_Group) <br>
+Day(**dayID**, weekday) <br>
+Operation(**_restaurantID_**, **_dayID_**, openingHour, endingHour, is_Night) <br>
+Location(**restaurantID**, address, city, zipcode, latitude, longitude) <br>
+Category(**categoryID**, categoryName) <br>
+Classify(**_restaurantID_**, **_categoryID_**) <br>
 Review(**reviewID**, _restaurantID_, text)
 
 
