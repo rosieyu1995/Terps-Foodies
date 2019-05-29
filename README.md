@@ -48,9 +48,9 @@ Our system can help users answering their questions as the following:
     - rvest
     - Yelpr (Interface with Yelp Fusion API)
     
-    ``` install.packages("yelpr")
-        devtools::install_github("OmaymaS/yelpr")
-        library(yelpr)```
+      ``` install.packages("yelpr") <br>
+          devtools::install_github("OmaymaS/yelpr") <br>
+          library(yelpr) ```
 
 
 ## Project Participants:
