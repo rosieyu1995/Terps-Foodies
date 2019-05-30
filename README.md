@@ -1,4 +1,4 @@
-# Terps-Foodies
+# Terps-Foodie
 
 
 ## Introduction
