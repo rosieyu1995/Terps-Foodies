@@ -56,6 +56,7 @@ Our system can help users answering their questions as the following:
 
 ## Project Participants:
 
+- Hsin-Jung(Rosie) Yu
 - Ho Huang
 - Yaohong Zeng
 - Baixue Chen
